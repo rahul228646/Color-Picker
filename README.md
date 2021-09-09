@@ -5,8 +5,8 @@ Color picker is a web app using which we can create our own custom color palette
 
 
 Tools Used - 
-React
-Material UI
-Chroma Js
-copy-to-clipboard
-react-beautiful-dnd
+React, 
+ Material UI, 
+ Chroma Js, 
+ copy-to-clipboard, 
+ react-beautiful-dnd
